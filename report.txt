@@ -1,0 +1,2 @@
+Accuracy after 10 iteraations = 91.32 %
+PFA of Screenshot of Accuracy of 10 iterations.
